@@ -1,0 +1,58 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Stranger Things",
+      "thumbnail": "/image/stran.jpg",
+      "rating": "8.7",
+      "cast": ["Winona Ryder", "David Harbour"],
+      "genre": "Sci-Fi",
+      "netflixUrl": "https://www.netflix.com/title/80057281"
+    },
+    {
+      "id": 2,
+      "title": "The Witcher",
+      "thumbnail": "/image/witch.png",
+      "rating": "8.2",
+      "cast": ["Henry Cavill", "Anya Chalotra"],
+      "genre": "Fantasy",
+      "netflixUrl": "https://www.netflix.com/title/80189685"
+    },
+    {
+      "id": 3,
+      "title": "Breaking Bad",
+      "thumbnail": "/image/be.jpg",
+      "rating": "9.5",
+      "cast": ["Bryan Cranston", "Aaron Paul"],
+      "genre": "Crime",
+      "netflixUrl": "https://www.netflix.com/title/70143836"
+    }
+  ],
+
+ "weather": [
+    {
+      "id": 1,
+      "city": "New York",
+      "temperature": "29°C",
+      "condition": "Sunny",
+      "humidity": "60%",
+      "wind": "10 km/h"
+    },
+    {
+      "id": 2,
+      "city": "London",
+      "temperature": "22°C",
+      "condition": "Cloudy",
+      "humidity": "70%",
+      "wind": "8 km/h"
+    },
+    {
+      "id": 3,
+      "city": "Mumbai",
+      "temperature": "32°C",
+      "condition": "Rainy",
+      "humidity": "88%",
+      "wind": "12 km/h"
+    }
+  ]
+}
